@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[businesswire.com](https://www.businesswire.com/news/home/20260421005328/en/Yelp-Launches-the-New-Yelp-Assistant-Transforming-Local-Discovery-from-Search-to-Answers-and-Actions)",
+    "[fastcompany.com](https://www.fastcompany.com/91286504/yelp-adds-ai-powered-search-and-booking-for-local-services)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[aimultiple.com](https://research.aimultiple.com/openclaw/)",
+    "[scmedia.com](https://www.scmagazine.com/news/shell-injection-flaw-found-in-10-of-11-open-source-ai-agents)",
+    "[creao.ai](https://creao.ai/ai-super-agent)"
+  ],
+  "design_plan": "rng_seed=42; architecture=reuse_comparison_layout; AIDA=checked(attention hero, interest proof, desire bento, action CTA); hero_math=1120px max, 2\u20133 lines; bento_density=grid-auto-flow:dense verified; competitors_sweep=Folk,Orchids,Siri,ChatGPT,Gemini,Grok mentioned; button_contrast=black/white pills verified",
+  "generated_at": "2026-07-04T21:29:18.125397+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion\u2011focused niche landing page for local service businesses that need fast bookings, accurate quotes, and consistent customer replies. The page positions Super as a sharper alternative to chat\u2011only assistants by showing how a personal AI agent can operate real software, handle repetitive workflows, and reuse a computer\u2011use cache so everyday admin work gets faster and cheaper over time."
+}
